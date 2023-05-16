@@ -1,2 +1,2 @@
-numpy==1.23.3
+numpy==1.21.6
 PyAutoGUI==0.9.53
